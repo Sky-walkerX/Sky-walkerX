@@ -1,25 +1,45 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <h1 align="center">Hey there 👋</h1>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/naman-khandelwal-53161829a/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="LinkedIn logo" />
+  </a>
+  <a href="https://discord.com/users/yourprofile" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="Discord logo" />
+  </a>
 </div>
 
-###
 
-<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">Hey there! I'm Naman Khandelwal, from India.<br><br>- 🔭 UG Student <br>- 💻 Web Development Enthusiast<br>- ⚡ Exploring the World of Anime</p>
+<hr>
+<h3 align="center">👩‍💻 About Me</h3>
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px; max-width: 800px; margin: 0 auto;">
+  <!-- Text on the Left (right-aligned inside its container) -->
+  <div style="width: 45%;">
+    <p>
+      Hey there! I'm Naman Khandelwal, from India.<br><br>
+      - 🔭 UG Student <br>
+      - 💻 Web Development Enthusiast<br>
+      - ⚡ Exploring the World of Anime
+    </p>
+  </div>
+  <!-- Image on the Right (left-aligned inside its container) -->
+  <div style="width: 45%; text-align: left;">
+    <img height="250" src="https://i.pinimg.com/originals/67/a9/fb/67a9fb6de2f8704553e37b9649312e96.jpg" alt="About Me Image" style="max-width: 100%;" />
+  </div>
+</div>
 
 ###
 
@@ -28,7 +48,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -76,7 +96,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sky-walkerX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Sky-walkerX&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
 
 [![An image of @namangithub01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/namangithub01)](https://holopin.io/@namangithub01)

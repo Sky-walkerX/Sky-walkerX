@@ -78,3 +78,5 @@
 </div>
 
 ###
+
+[![An image of @namangithub01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/namangithub01)](https://holopin.io/@namangithub01)

@@ -25,9 +25,9 @@
 
 <hr>
 <h3 align="center">👩‍💻 About Me</h3>
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px; max-width: 800px; margin: 0 auto;">
-  <!-- Text on the Left (right-aligned inside its container) -->
-  <div style="width: 45%;">
+<div style="display: flex; align-items: center; gap: 10px;">
+  <!-- Text on the Left -->
+  <div style="flex: 1; text-align: left;">
     <p>
       Hey there! I'm Naman Khandelwal, from India.<br><br>
       - 🔭 UG Student <br>
@@ -35,9 +35,9 @@
       - ⚡ Exploring the World of Anime
     </p>
   </div>
-  <!-- Image on the Right (left-aligned inside its container) -->
-  <div style="width: 45%; text-align: left;">
-    <img height="250" src="https://i.pinimg.com/originals/67/a9/fb/67a9fb6de2f8704553e37b9649312e96.jpg" alt="About Me Image" style="max-width: 100%;" />
+  <!-- Image on the Right -->
+  <div style="flex: 1; text-align: right;">
+    <img height="250" src="https://i.pinimg.com/originals/67/a9/fb/67a9fb6de2f8704553e37b9649312e96.jpg" alt="About Me Image" />
   </div>
 </div>
 

@@ -35,10 +35,7 @@
       - ⚡ Exploring the World of Anime
     </p>
   </div>
-  <!-- Image on the Right -->
-  <div style="flex: 1; text-align: right;">
-    <img height="250" src="https://i.pinimg.com/originals/67/a9/fb/67a9fb6de2f8704553e37b9649312e96.jpg" alt="About Me Image" />
-  </div>
+  
 </div>
 
 ###

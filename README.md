@@ -94,4 +94,4 @@
   <img src="https://github-profile-trophy.vercel.app?username=Sky-walkerX&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-[![An image of @namangithub01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/namangithub01)](https://holopin.io/@namangithub01)
+[![An image of @namangithub01's(now Skywalker) Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/namangithub01)](https://holopin.io/@namangithub01)
